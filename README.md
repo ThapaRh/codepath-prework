@@ -1,67 +1,22 @@
-# codepath-prework
-Codepath Prework project- light and sound game 
+# Hello Website (blank)
 
-# Pre-work - *Memory Game*
+This is a basic static HTML starter project you can build on however you like. No need to save. While you develop your site, your changes will happen 🪄 immediately in the preview window. You can upload assets like images or audio in `assets` to the left. The rest is up to you and your imagination.
 
-**Memory Game** is a Light & Sound Memory game to apply for CodePath's SITE Program. 
+## What's in this project?
 
-Submitted by: **Rhitu Thapa**
+← `README.md`: That's this file, where you can tell people what your cool website does and how you built it.
 
-Time spent: **4** hours spent in total
+← `index.html`: This is the main HTML page for your site.
 
-Link to project: (insert your link here, should start with https://glitch.com...)
+← `style.css`: CSS files add styling rules to your content.
 
-**ALL the required functionalities are complete.**
+← `script.js`: If you're feeling fancy you can add interactivity to your site with JavaScript.
 
-The following **optional** features are implemented:
+![Glitch](https://cdn.glitch.com/a9975ea6-8949-4bab-addb-8a95021dc2da%2FLogo_Color.svg?v=1602781328576)
 
-* [ ] Any HTML page elements (including game buttons) has been styled differently than in the tutorial
-* [ ] There are more buttons than asked
-* [ ] New frequencies has been researched and added. 
+## You built this with Glitch!
 
-## Video Walkthrough (GIF)
+[Glitch](https://glitch.com) is a friendly community where millions of people come together to build web apps and websites.
 
-If you recorded multiple GIFs for all the implemented features, you can add them here:
-![]https://www.loom.com/share/63f843769ee24b0baf0970efa3db4802
-![](gif4-link-here)
-
-## Reflection Questions
-1. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-- While I felt like there weren't any big challenges, I did enjoy it quite a bit. My only challenge was how to implement the game logic. I decided not to examine the answer but to implement it on my own so it was quite tricky but later I corrected my implemenrarion by looking at the answers provided from the book. The guess function requires us to implement various helper functions within the function itself. So, for this I had to generate and analyze the condition tree carefully. I split various possible scenarios carefully and considered them one by one. The algorithms got easier as I pictiured various scenarios in my head as response to change in global variables. I at first created the function by adding more functionalities but later realized the code with more functionalities is not the optimized version and modified the function by looking at the given solution accordingly. Understanding what every functions in JS did was quite tricky to understand. I thoroughly read the descriptions and looked for any new inbuild functions used inside the function in order to understand the code better.
-
-3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-- I need to learn how to deploy it in web.
-- I want to learn a lot more cause web development has a lot of stuffs that I can learn, so I need to know where can I find the resources.
-- How to create similar project but with navigation to different page. 
-- How to make the webpage dynamic?
-
-4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-- I would add few more buttons to make game little more complex
-- i would maybe create new pages that we can navigate from the first page, so that if user wants to play only 4 buttons game, he could navigatet o one page and if more than 4 buttons he could navigate to other pages.
-- I would style little bit more.
-- I added few more buttons on index.html after figuring out the other frequencies. And i spent quite a bit of time figuring out the additional pair of color. 
-- If i had more time and I would refractor the guess button and optimize it more. 
-Overall, I really enjoyed this and I am pretty confident with the web development. Being a fast learner I believe, I can confidently progress a lot in my web development skills also having knowledge of mobile app design, java script, some react backs this up.
-
-
-
-## Interview Recording URL Link
-
-[My 5-minute Interview Recording](your-link-here)
-
-
-## License
-
-    Copyright [YOUR NAME]
-
-    Licensed under the Apache License, Version 2.0 (the "License");
-    you may not use this file except in compliance with the License.
-    You may obtain a copy of the License at
-
-        http://www.apache.org/licenses/LICENSE-2.0
-
-    Unless required by applicable law or agreed to in writing, software
-    distributed under the License is distributed on an "AS IS" BASIS,
-    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-    See the License for the specific language governing permissions and
-    limitations under the License.
+- Need more help? [Check out our Help Center](https://help.glitch.com/) for answers to any common questions.
+- Ready to make it official? [Become a paid Glitch member](https://glitch.com/pricing) to boost your app with private sharing, more storage and memory, domains and more.
