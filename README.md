@@ -22,7 +22,7 @@ The following **optional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![]https://www.loom.com/share/7e632036d9834315b1f0daa522356c8a
+![]https://www.loom.com/share/2f7e1583141e4d25b5cf627e011509e6
 ![](gif4-link-here)
 
 ## Reflection Questions
