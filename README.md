@@ -47,7 +47,7 @@ Overall, I really enjoyed this and I am pretty confident with the web developmen
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording]https://www.loom.com/share/15335a23159f4c12b9ce6fc5bb57d629
 
 
 ## License
