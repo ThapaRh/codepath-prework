@@ -31,7 +31,7 @@ The following **optional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![](gif1-link-here)
+![](https://www.loom.com/share/7e632036d9834315b1f0daa522356c8a)
 ![](gif2-link-here)
 ![](gif3-link-here)
 ![](gif4-link-here)
