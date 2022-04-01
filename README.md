@@ -9,7 +9,7 @@ Submitted by: **Rhitu Thapa**
 
 Time spent: **4** hours spent in total
 
-Link to project: (insert your link here, should start with https://glitch.com...)
+Link to project: (insert your link here, should start with https://glitch.com/edit/#!/shining-gentle-order)
 
 **ALL the required functionalities are complete.**
 
